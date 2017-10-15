@@ -25,20 +25,26 @@ used to mitigate spam and allocate resources on the network.
 ##### Smart Contract Languages:
  * [Solidity](https://solidity.readthedocs.io/en/develop/)
 
+### Economic Model
+
+
 ##### Articles/Links:
 
  * [Ethereum, Gas, Fuel, and Fees](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)
  * [Enterprise Ethereum Alliance](https://entethalliance.org/)
 
 
+
 ## [Neo](https://www.neo.org)
 
-Neo is a newer chinese alternative to Ethereum. The main selling people being the
-ability to write smart contracts in a large number of langauges.  NEO is backed
-by the Chinese government. This has become the most important factor for NEO’s
-popularity in China, making it China’s first open-source public blockchain
-project. NEO is also backed by WINGS, Alibaba, and various Microsoft-like
-giants.
+Neo is a newer chinese alternative to Ethereum. The main selling points are
+a digital asset and identity primitives (in addition to smart contracts),
+proof of stake mining, and smart contract compilers for many popular languages
+
+NEO is backed by the Chinese government. This has become the most important
+factor for NEO’s popularity in China, making it China’s first open-source public
+blockchain project. NEO is also backed by WINGS, Alibaba, and various
+Microsoft-like giants.  
 
 ### Key Points
   * Smart Contracts
@@ -121,7 +127,19 @@ will be generated through a decay algorithm in about 22 years time to address
 holding NEO. If NEO is transferred to a new address, the subsequent GAS
 generated will be credited to the new address.
 
+**NEO's 100 million tokens is divided into two portions. The first portion is 50
+million tokens distributed proportionally to supporters of NEO during the
+crowdfunding. This portion has been distributed.
 
+The second portion is 50 million NEO managed by the NEO Council to support NEO's
+long-term development, operation and maintenance and ecosystem. The NEO in this
+portion has a lockout period of 1 year and is unlocked only after October 16,
+2017.**
+
+GAS is generated with each new block. The initial total amount of GAS is zero.
+With the increasing rate of new block generation, the total limit of 100 million
+GAS will be achieved in about 22 years. The interval between each block is about
+15-20 seconds, and 2 million blocks are generated in about one year.
 
 #### Consensus Mechanisms:
   * Proof of Stake ([Byzantine Fault Tolerant](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance))
