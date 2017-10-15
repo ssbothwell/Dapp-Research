@@ -131,9 +131,9 @@ generated will be credited to the new address.
 
 **NEO's 100 million tokens is divided into two portions. The first portion is 50
 million tokens distributed proportionally to supporters of NEO during the
-crowdfunding. This portion has been distributed.
+crowdfunding. This portion has been distributed.**
 
-The second portion is 50 million NEO managed by the NEO Council to support NEO's
+**The second portion is 50 million NEO managed by the NEO Council to support NEO's
 long-term development, operation and maintenance and ecosystem. The NEO in this
 portion has a lockout period of 1 year and is unlocked only after October 16,
 2017.**
