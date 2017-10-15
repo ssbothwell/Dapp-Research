@@ -1,7 +1,7 @@
 # Dapps Research
 
 ## Dapp Platforms
-----
+
 ## [Ethereum](https://www.ethereum.org/)
 
 > Ethereum is an open-source, public, blockchain-based distributed computing 
@@ -13,8 +13,12 @@ transferred between accounts and used to compensate participant nodes for
 computations performed.[3] "Gas", an internal transaction pricing mechanism, is
 used to mitigate spam and allocate resources on the network.
 
-#### Key Features:
+#### Key Points:
   * Smart Contracts
+  * Digital Assets
+  * Smart Contract Compiler for many languages
+  * Premined
+  * Funded by Chinese Government
 
 #### Consensus Mechanisms:
   * Proof of Work
@@ -91,6 +95,30 @@ giants.
 > of the smart contract and require a compatible client to recognize them.
 > Contract assets can adhere to certain standards in order to achieve
 > compatibility with most clients 
+
+### Economic Model
+
+NEO has two native tokens, NEO (abbreviated symbol NEO) and NeoGas (abbreviated
+symbol GAS).
+
+NEO, with a total of 100 million tokens, represents the right to manage the
+network. Management rights include voting for bookkeeping, NEO network parameter
+changes, and so on. The minimum unit of NEO is 1 and tokens cannot be
+subdivided.
+
+GAS is the fuel token for the realization of NEO network resource control, with
+a maximum total limit of 100 million. The NEO network charges for the operation
+and storage of tokens and smart contracts, thereby creating economic incentives
+for bookkeepers and preventing the abuse of resources. The minimum unit of GAS
+is 0.00000001.
+
+**In the genesis block of the NEO network, 100 million NEOs are generated, GAS has
+not yet been generated.** 100 million GAS, corresponding to the 100 million NEO,
+will be generated through a decay algorithm in about 22 years time to address
+holding NEO. If NEO is transferred to a new address, the subsequent GAS
+generated will be credited to the new address.
+
+
 
 #### Consensus Mechanisms:
   * Proof of Stake ([Byzantine Fault Tolerant](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance))
