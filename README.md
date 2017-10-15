@@ -39,7 +39,7 @@ used to mitigate spam and allocate resources on the network.
 
 Neo is a newer chinese alternative to Ethereum. The main selling points are
 a digital asset and identity primitives (in addition to smart contracts),
-proof of stake mining, and smart contract compilers for many popular languages
+proof of stake mining, and smart contract compilers for many popular languages.
 
 NEO is backed by the Chinese government. This has become the most important
 factor for NEO’s popularity in China, making it China’s first open-source public
@@ -47,6 +47,7 @@ blockchain project. NEO is also backed by WINGS, Alibaba, and various
 Microsoft-like giants.  
 
 ### Key Points
+
   * Smart Contracts
   * Digital Assets
   * Smart Contract Compiler for many languages
@@ -54,6 +55,7 @@ Microsoft-like giants.
   * Funded by Chinese Government
 
 #### Smart Contracts
+
 The smart contract was first proposed by the cryptographer Nick Szabo in 1994,
 only five years after the creation of the World Wide Web. According to Szabo's
 definition: When a pre-programmed condition is triggered, the smart contract
@@ -75,8 +77,8 @@ white paper describing the implementation details.
 
 #### Digital Identity
 
-Digital identity refers to the identity information of individuals,
-organizations, and other entities that exist in electronic form. The more
+**Digital identity refers to the identity information of individuals,
+organizations, and other entities that exist in electronic form.** The more
 mature digital identity system is based on the PKI (Public Key Infrastructure)
 X.509 standard. In NEO, we will implement a set of X.509 compatible digital
 identity standards. This set of digital identity standards, in addition to
@@ -93,9 +95,9 @@ List (CRL).
 Digital assets are programmable assets that exist in the form of electronic
 data.  With blockchain technology, the digitization of assets can be
 decentralized, trustful, traceable, highly transparent, and free of
-intermediaries. On the NEO blockchain, users are able to register, trade, and
+intermediaries. **On the NEO blockchain, users are able to register, trade, and
 circulate multiple types of assets. Proving the connection between digital and
-physical assets is possible through digital identity. Assets registered through
+physical assets is possible through digital identity.** Assets registered through
 a validated digital identity are protected by law. 
 
 NEO has two forms of digital assets: global assets and contract assets. Global
@@ -141,6 +143,13 @@ With the increasing rate of new block generation, the total limit of 100 million
 GAS will be achieved in about 22 years. The interval between each block is about
 15-20 seconds, and 2 million blocks are generated in about one year.
 
+
+### Additional Features of note:
+
+  * Cross-chain interoperability agreement (NeoX)
+  * Distributed Storage Protocol (NeoFS)
+  * Anti-quantum cryptography mechanism (NeoQS)
+
 #### Consensus Mechanisms:
   * Proof of Stake ([Byzantine Fault Tolerant](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance))
 
@@ -155,3 +164,5 @@ GAS will be achieved in about 22 years. The interval between each block is about
   * Python
   * Ruby 
 
+##### Articles/Links:
+  * [Neo White Paper](http://docs.neo.org/en-us/index.html)
