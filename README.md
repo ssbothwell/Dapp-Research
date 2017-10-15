@@ -15,10 +15,8 @@ used to mitigate spam and allocate resources on the network.
 
 #### Key Points:
   * Smart Contracts
-  * Digital Assets
-  * Smart Contract Compiler for many languages
-  * Premined
-  * Funded by Chinese Government
+  * Community Driven Developoment
+  * Lots of corporate interest
 
 #### Consensus Mechanisms:
   * Proof of Work
@@ -42,7 +40,12 @@ popularity in China, making it China’s first open-source public blockchain
 project. NEO is also backed by WINGS, Alibaba, and various Microsoft-like
 giants.
 
-### Key Features
+### Key Points
+  * Smart Contracts
+  * Digital Assets
+  * Smart Contract Compiler for many languages
+  * Premined
+  * Funded by Chinese Government
 
 #### Smart Contracts
 > The smart contract was first proposed by the cryptographer Nick Szabo in 1994,
